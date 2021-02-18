@@ -36,7 +36,4 @@ pod.add_leader("Aris","(510) 229-6359 ")
 pod.add_leader("Andrew","(925) 727-4611")
 pod.display_leaders()
 
-print("\n")
-Leader = Pod_leaders()
-Leader.add_leader("Jacore","(845) 200-6250")
-Leader.display_leaders()
+
